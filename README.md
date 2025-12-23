@@ -35,12 +35,6 @@ Currently working on production-grade Java (Quarkus) microservices with Kafka, R
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhilash-kutikuppala&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-### 🌟 Highlights from Experience
-- Architected **Checkpoint microservice** with Kafka events and MongoDB for real-time traceability
-- Improved API response times by **30-40%** using OpenTelemetry & Grafana
-- Built **RAG-based personal knowledge search engine** and **high-performance rate limiter**
-- Contributed to global ZEISS teams (Germany & China)
-
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhilash-kutikuppala/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhilashkutikuppala7@gmail.com)
