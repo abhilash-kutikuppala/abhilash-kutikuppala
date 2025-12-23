@@ -8,7 +8,7 @@ Currently working on production-grade Java (Quarkus) microservices with Kafka, R
 - 🌱 Exploring LLMs, RAG systems, and distributed rate limiting  
 - 💼 B.Tech in Computer Science from IIIT Naya Raipur (GPA: 9.07)  
 - 🏆 Awards: Go-To Guru at ZEISS, Samsung PRISM Excellence, ACM-ICPC Regionalist  
-- ⚡ Fun fact: Captain of ZEISS Cricket Team 🏏
+- ⚡ Fun fact: Fan of Cricket and Part of Cricket Team at ZEISS 🏏
 
 ### 🚀 Tech Stack
 
